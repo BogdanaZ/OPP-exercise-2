@@ -1,0 +1,15 @@
+.navbar-dark .navbar-nav .nav-link.active-link {
+  background-color: white;
+  color: #000000;
+  border-bottom: 3px solid orange;
+  height: 100%;
+}
+.navbar.navbar-expand {
+  padding: 0 5px 0;
+}
+.navbar-dark .navbar-nav .nav-link {
+  padding-top: 15px;
+}
+.navbar-dark .navbar-nav .nav-item {
+  line-height: 17px;
+}
